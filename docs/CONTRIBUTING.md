@@ -83,3 +83,14 @@ We especially welcome contributions to improve translations or add new languages
 If you have any questions about contributing, please reach out to the project maintainers or create an issue labeled "question" in the GitHub repository.
 
 Thank you for helping improve the Refugee Connect Platform!
+
+## 5. Missing Configuration Files
+
+You're missing essential Next.js configuration files:
+- `next.config.js` - For Next.js configuration
+- `tailwind.config.js` - For Tailwind CSS configuration
+- `postcss.config.js` - For PostCSS configuration
+
+## 6. Code of Conduct Reference
+
+In your CONTRIBUTING.md, you reference a Code of Conduct file that doesn't appear to exist:
