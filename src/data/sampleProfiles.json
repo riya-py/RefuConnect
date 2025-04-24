@@ -1,0 +1,18 @@
+[
+  {
+    "id": "profile1",
+    "name": "Sample Profile",
+    "age": 30,
+    "gender": "Male",
+    "languages": ["Arabic", "Basic English"],
+    "skills": ["Cooking", "Customer Service", "Gardening"],
+    "experience": "5 years as a chef assistant in Syria",
+    "housingNeeds": {
+      "roommates": true,
+      "furnished": true,
+      "maxBudget": 500
+    },
+    "locationPreferences": ["Downtown", "University Area"],
+    "servicesNeeded": ["Language Classes", "Legal Assistance"]
+  }
+]
