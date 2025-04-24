@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@tensorflow/tensorflow-node": "^4.22.0",
     "i18next": "^25.0.1",
     "i18next-browser-language-detector": "^8.0.5",
     "next": "15.3.1",
