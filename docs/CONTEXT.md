@@ -10,7 +10,7 @@ Refugees face numerous challenges when integrating into new communities:
 - **Difficulty navigating** localized services and resources
 - **Mismatched job or housing opportunities** that don't align with skills or needs
 
-**RAP (Refugee Assistance Platform)** addresses these challenges by:
+**RCP (Refugee Connect Platform)** addresses these challenges by:
 
 - Implementing AI-powered matching to connect refugees with appropriate resources
 - Providing comprehensive multilingual interfaces for accessibility
