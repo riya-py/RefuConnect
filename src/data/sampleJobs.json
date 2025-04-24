@@ -1,0 +1,43 @@
+[
+  {
+    "id": "job1",
+    "title": "Restaurant Assistant",
+    "description": "Entry-level position at a local restaurant. Duties include food preparation, cleaning, and customer service.",
+    "location": "Downtown",
+    "requirements": ["Food handling", "Customer service", "English basics"],
+    "type": "job",
+    "contactEmail": "restaurant@example.com",
+    "contactPhone": "555-123-4567"
+  },
+  {
+    "id": "job2",
+    "title": "Warehouse Worker",
+    "description": "Loading, unloading, and organizing inventory in a warehouse setting.",
+    "location": "Industrial District",
+    "requirements": ["Physical strength", "Basic math", "Reliability"],
+    "type": "job",
+    "contactEmail": "warehouse@example.com",
+    "contactPhone": "555-987-6543"
+  },
+  {
+    "id": "housing1",
+    "title": "Shared Apartment",
+    "description": "Room in a 3-bedroom apartment with shared kitchen and bathroom.",
+    "location": "University Area",
+    "amenities": ["Furnished", "Utilities included", "Public transport nearby"],
+    "price": "$400/month",
+    "type": "housing",
+    "contactEmail": "housing@example.com",
+    "contactPhone": "555-456-7890"
+  },
+  {
+    "id": "service1",
+    "title": "Free English Classes",
+    "description": "Beginner and intermediate English classes offered twice weekly.",
+    "location": "Community Center",
+    "schedule": "Tuesdays and Thursdays, 6-8pm",
+    "type": "service",
+    "contactEmail": "classes@example.com",
+    "contactPhone": "555-789-0123"
+  }
+]
