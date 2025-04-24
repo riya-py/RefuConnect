@@ -1,0 +1,45 @@
+{
+  "app": {
+    "name": "Refugee Connect Platform",
+    "tagline": "Connecting refugees with opportunities and resources"
+  },
+  "nav": {
+    "home": "Home",
+    "profile": "Create Profile",
+    "matches": "My Matches"
+  },
+  "landing": {
+    "title": "Welcome to Refugee Connect Platform",
+    "subtitle": "Find housing, jobs, and essential services tailored to your needs",
+    "createProfile": "Create Your Profile",
+    "learnMore": "Learn More"
+  },
+  "profile": {
+    "title": "Create Your Profile",
+    "personalInfo": "Personal Information",
+    "name": "Full Name",
+    "age": "Age",
+    "gender": "Gender",
+    "languages": "Languages",
+    "skills": "Skills & Experience",
+    "housing": "Housing Requirements",
+    "location": "Geographic Preferences",
+    "submit": "Find Matches",
+    "uploadResume": "Upload Resume"
+  },
+  "matches": {
+    "title": "Your Matches",
+    "jobs": "Job Opportunities",
+    "housing": "Housing Options",
+    "services": "Essential Services",
+    "matchScore": "Match Score",
+    "apply": "Apply",
+    "contact": "Contact",
+    "save": "Save for Later"
+  },
+  "language": {
+    "select": "Select Language",
+    "en": "English",
+    "ar": "Arabic"
+  }
+}
